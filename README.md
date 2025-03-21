@@ -144,6 +144,6 @@ Finally, I have experience with agile methodologies such as Scrum and the use of
 
 <br clear="both">
 
-<!-- <img src="https://raw.githubusercontent.com/bruno-lopes/bruno-lopes/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://avatars.githubusercontent.com/u/2408316?v=4" alt="My photo" width="160px" height="160px"/>
 
 ###
