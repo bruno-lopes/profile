@@ -1,4 +1,16 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Bruno and I'm a Computer Engineer who focuses on solving problems regardless of the related business area. I have 15 years of experience, mainly in systems development, especially in Java, Javascript, and Groovy, using various frameworks such as Micronaut, Grails, Spring Boot, Angular, and React.
+
+I highly value using Clean Code and Design Patterns, as they make code easier to understand and improve quality. I'm very interested in Systems Architecture because defining good architecture is fundamental to development. I don't believe in silver bullets in this area.
+
+I believe in test-driven development (TDD), which is why I argue that automated testing is not an option but a prerequisite. I use testing frameworks such as JUnit, Spock, and Cypress, as well as equally important tools such as JMeter and Postman, to test APIs.
+
+I also like to automate the application deployment cycle, from building, testing, and deploying to one or more environments. I've done this kind of work several times, especially using automated pipelines in GitHub Actions and GitLab.
+
+Another area I'm interested in is public and private clouds, with experience in clouds such as AWS, GCP, and OCI. In this context, Kubernetes is an exciting possibility, which I advocate in most cases.
+
+Business process modeling greatly facilitates application development because it can decouple business processes from code. Therefore, using BPM seems a logical choice, and Camunda is my favorite tool in this area.
+
+Finally, I have experience with agile methodologies such as Scrum and the use of both SQL and NoSQL databases.</h2>
 
 ###
 
