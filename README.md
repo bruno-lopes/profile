@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Bruno and I'm a Computer Engineer who focuses on solving problems regardless of the related business area. I have 15 years of experience, mainly in systems development, especially in Java, Javascript, and Groovy, using various frameworks such as Micronaut, Grails, Spring Boot, Angular, and React.
+<h2 align="left">Hi 👋! My name is Bruno and I'm a Computer Engineer who focuses on solving problems regardless of the related business area.</h2>
+
+<p>I have 15 years of experience, mainly in systems development, especially in Java, Javascript, and Groovy, using various frameworks such as Micronaut, Grails, Spring Boot, Angular, and React.
 
 I highly value using Clean Code and Design Patterns, as they make code easier to understand and improve quality. I'm very interested in Systems Architecture because defining good architecture is fundamental to development. I don't believe in silver bullets in this area.
 
@@ -10,7 +12,7 @@ Another area I'm interested in is public and private clouds, with experience in 
 
 Business process modeling greatly facilitates application development because it can decouple business processes from code. Therefore, using BPM seems a logical choice, and Camunda is my favorite tool in this area.
 
-Finally, I have experience with agile methodologies such as Scrum and the use of both SQL and NoSQL databases.</h2>
+Finally, I have experience with agile methodologies such as Scrum and the use of both SQL and NoSQL databases.</p>
 
 ###
 
@@ -21,15 +23,25 @@ Finally, I have experience with agile methodologies such as Scrum and the use of
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />-->
 
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/micronaut/micronaut-original.svg" height="30" alt="micronaut logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grails/grails-original.svg" height="30" alt="grails logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo"  />
+  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -44,18 +56,18 @@ Finally, I have experience with agile methodologies such as Scrum and the use of
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="www.youtube.com/@canalBL2"<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+<!--   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> -->
+<!--   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /> -->
+<!--   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> -->
+  <a href="mailto:contato@canalbl2.com?subject=GitHub Contact&body=Hello. I found you on GitHub and would like to..."><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/bllopes/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bruno-lopes/bruno-lopes/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/bruno-lopes/bruno-lopes/output/snake.svg" alt="Snake animation" /> -->
 
 ###
